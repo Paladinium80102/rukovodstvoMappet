@@ -1,0 +1,169 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.Feedback_McHorse {
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQDhASEBAPEBUPDw8PEg8PDw8PEBAPFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQFysdFx0tKy0rKy0rLS0rLSsrLS0rKy0tLS0tLSstLS03LS0tLS0rLS0tNy0tKystLTcrKy0rK//AABEIAJ8BPgMBIgACEQEDEQH/xAAZAAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAoEAEAAgICAQQBAwUAAAAAAAAAAQIDESFRMRITYXFBgdHwkaGx4fH/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBgX/xAAaEQEBAQEBAQEAAAAAAAAAAAAAARECEjEh/9oADAMBAAIRAxEAPwD0hZXD2WxdcvX+o+XisWRh+Ub0mDYYiGhUAAAAAAIldXN2pEs1dWZMm/CsCTEAFAABox00z6aoZ6WEw5WkQ6MNI3pEoez8rRdRnvSYRaMkcSzty6lAFQAABPHTZaIDT6I6Q9mNs+lxSL5xQr9qfg9QxAStSYRaRqAcmwABRlpperzzxCz6lUgOjIAAAAAAAAtpjV0jctLPVWIejvn/AA76I6d26ypjpG+lk1VxblOLs3VRcSt5RmVAQ92PlVOSe1kqaty2412oBuTEAFQAAX4fCiGqIZ6WADDQABMM1o1LTMs1p3LXKVqcZ63mF0ZI7Sw1IlTkydf1Qm0z5lZyatnNCq1tuDUmJrta7d9H6/S6teNJM+lxn9E9Ho74/RoD0YzWrMONPo+GeY50supY4GhpAAFmGOZXKcMrZc79aijJE7Xw5FodLRRWJ3+rQjNo7diS0RyXmNKrXmU80qmuYlAGkAAAAAAF9MkT54UCWautUSM9L6TnN8M+aurJtHau+XpVIs5TUrXmUQaQAAAASxxyisw/lL8WLldsmpWK7Y9yxMVOJSx2RiE6U0lVYrvWN77WI5PDMFcwh7MfKY0im+PXhW1Mst81KJRkmERpHbW24AO1tp2ckoiYACgAAAAAAAAAAAAAAAAAAAAlS2kQF/qify5a+upUjPldXUyxuOGiLMKyuXtOuVla9oWshW24dYxQVzmjpXa8y15qauyX19s4NyYloAqAAAAL8dNJzGyByaRrjiP9l8cSkKKvZ+f7IXpMNDmSNxKzqmMwDbIC6uP+T+EtxVI0ejvk9EdJ6MZ9DR6OuEbY/wCdnoxSA0gC3BHlLcVUGhUAAAAAAAAdidE2mfy4AAAAAAAAAJ4Y5QdrOpSq0iEZYTc2gEPdgE0MttR9q5yT9INTlnQBtEscbloU4Y8rmOvrUc26z3idr0sDbrPWJ20Fgz5I1KKzNHhW3PiUX4q6j7UNVZ4ToghOKExhVVsPSpqUZo5a5qVABtAAAAAAAAAAAAAAAABKuSYRASteZRAAAAAFmGVssyUZJhm8rKui0dus9rbcPJrRNo7diWettOzklPK6lmsrBqTGR2tphwUahC2WIlXfJv4c5K1q61ojyz2ncuDcmJaAKgAAAARDtY3LTEJbiyMswaapjfkiGfRjKNF6RKM4Y+V9QxSO2rpxpEqV2sin8nmXcUcfabFrUV+1Hye1CwTaYrnH/wBj9lVo1LSqzR+VlLFQDbIAAJUptOcPymxcVCcYp+nbYpj5NhisNCoAAAAAAAAAAAAAAAAnijlerweP1WOd+tQARQAFeeOI+1MJ5b7Rr5hufGa0IZp4Tc3E/szFRwzwjmnlbEEwb+iOOeHbxxLuyQZgHRkB2sbnQNFI4h0iNDk2AAIZKb+0yZEZQHVkAAAAAAAAAAAAAB2ltLa5VIlmrrU5e2lEXntGZZ8rq22bpVsGpE0AVEq3mHbZN/hATIuu+qe5PVLgqLIya8Qha0y4JigCoO0nUw4A1DNFp7W0ydudjWrBG2SIU+ue5JNNXWyRCrJk2gNTlNAGkAAAAf/Z");
+    width: 266x;
+    height: 160px;
+    border-radius: 20%;
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right;
+    float: top;
+}
+
+#McHorse {
+    margin: 10px;
+    margin-right: 20px;
+    float: right;
+}
+
+#Feedback_Paladin {
+    float: right;
+    margin-top: 540px;
+    padding-left: 10px;
+    margin-right: 50px;
+}
+
+#strelka {
+    width: 335px;
+    height: 345px;
+    float: left;
+    padding-left: 600px;
+}
+
+#strelka2 {
+    float: right;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    transform: rotate(-70deg);
+    width: 200px;
+}
+
+#McHorse_Github {
+    width: 50px;
+    height: 50px;
+    margin-top: 60px;
+    margin-right: 20px;
+    float: right;
+}
+#McHorse_Boosty {
+    width: 50px;
+    height: 50px;
+    margin-top: 60px;
+    margin-right: 20px;
+    float: right;
+}
+
+.main_text {
+    width: 800px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 50px;
+    float: left;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+#header {
+    font-size: 35px;
+}
+
+.main_images {
+    width: 1920px;
+    height: 800px;
+    background-image: url('image/Minecraft.png');
+    background-attachment: fixed;
+    float: top;
+}   
+
+#start_button {
+    color: #000;
+    border-radius: 10px;
+    background-color: rgb(0, 255, 42) ;
+    padding: 9px 17px;
+    transition: all 500ms ease;
+}
+
+#start_button:hover {
+    background-color: rgb(0, 166, 255);
+}
+
+#start_button:active {
+    scroll-behavior: smooth;
+}
+
+.Mappet {
+    margin-left: 50px;
+    margin-top: 100px;
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+}
+
+#Mappet_Base_Tutorial {
+    padding-left: 30px;
+}
+
+#Mappet_UI {
+    padding-left: 30px;
+}
+
+#scroller_mappet_base {
+    float: right;
+    margin-right: 50px;
+    margin-top: 100px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255), #aab8ff);
+    width: 300px;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#scroller_mains {
+    float: right;
+    margin-right: 50px;
+    margin-top: 100px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255), #aab8ff);
+    width: 200px;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#scroller_mappet_UI {
+    float: right;
+    margin-right: 30px;
+    margin-top: 100px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255), #aab8ff);
+    width: 300px;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#scroller_mappet_createItem {
+    float: right;
+    margin-right: 30px;
+    margin-top: 100px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255), #aab8ff);
+    width: 300px;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#scroller_ui_graphic {
+    float: right;
+    margin-right: 30px;
+    margin-top: 100px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255), #aab8ff);
+    width: 300px;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+}
